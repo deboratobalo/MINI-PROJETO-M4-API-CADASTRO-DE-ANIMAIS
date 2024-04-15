@@ -4,3 +4,9 @@
 
 ## TECNOLOGIAS BACK-END
 
+    express
+
+    cors
+
+
+
